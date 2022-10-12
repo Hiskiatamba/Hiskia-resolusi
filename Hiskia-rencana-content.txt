@@ -1,0 +1,5 @@
+rencana konten yg mau di pelajari
+- javascript
+- php framework
+- interview
+- vlog
