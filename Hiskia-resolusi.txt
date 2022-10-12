@@ -1,0 +1,3 @@
+Hiskia  Resolusi
+- Konsisten untuk belajar git & github
+- menyelesaikan pembelajaran git & github dalam seminggu
