@@ -1,5 +1,5 @@
 Hiskia  Resolusi
 - Konsisten untuk belajar git & github
 - menyelesaikan pembelajaran git & github dalam seminggu
-- belajar database
 - belajar data analyst
+- belajar python
