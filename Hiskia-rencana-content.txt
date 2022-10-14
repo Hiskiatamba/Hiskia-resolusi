@@ -3,6 +3,7 @@ rencana konten yg mau di pelajari
 - javascript 
  * ES6
  * Fromwork Javascript
+- Struktur Data Dasar
 - php framework
 - interview
 - vlog
