@@ -4,6 +4,7 @@ rencana konten yg mau di pelajari
  * ES6
  * Fromwork Javascript
   ^ Vue
+  ^ React
 - Struktur Data Dasar
 - php framework
  ^ Laravel
